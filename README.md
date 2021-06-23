@@ -1,1 +1,3 @@
-# cmdGame_PokeIsa
+# cmd game
+
+## Ruby practice
